@@ -1,19 +1,19 @@
 {
-  "name": "duplexthrough",
+  "name": "passthrough-pair",
   "version": "1.0.0",
-  "description": "Basically a duplex passthrough",
+  "description": "Two duplex streams that are eachothers passthrough",
   "main": "index.js",
   "dependencies": {
     "streamx": "^2.23.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/duplexthrough.git"
+    "url": "https://github.com/mafintosh/passthrough-pair.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/mafintosh/duplexthrough/issues"
+    "url": "https://github.com/mafintosh/passthrough-pair/issues"
   },
-  "homepage": "https://github.com/mafintosh/duplexthrough"
+  "homepage": "https://github.com/mafintosh/passthrough-pair"
 }

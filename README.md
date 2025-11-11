@@ -1,15 +1,15 @@
-# duplexthrough
+# passthrough-pair
 
-Basically a duplex passthrough
+Two duplex streams that are eachothers passthrough
 
 ```
-npm install duplexthrough
+npm install passthrough-pair
 ```
 
 ## Usage
 
 ``` js
-const pair = require('duplexthrough')
+const pair = require('passthrough-pair')
 
 const [a, b] = pair()
 
