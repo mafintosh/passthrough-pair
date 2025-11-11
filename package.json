@@ -1,6 +1,6 @@
 {
   "name": "duplex-pair",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Basically a duplex passthrough",
   "main": "index.js",
   "dependencies": {
