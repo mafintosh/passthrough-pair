@@ -1,15 +1,15 @@
-# duplex-pair
+# duplexthrough
 
 Basically a duplex passthrough
 
 ```
-npm install duplex-pair
+npm install duplexthrough
 ```
 
 ## Usage
 
 ``` js
-const pair = require('duplex-pair')
+const pair = require('duplexthrough')
 
 const [a, b] = pair()
 

@@ -1,5 +1,5 @@
 {
-  "name": "duplex-pair",
+  "name": "duplexthrough",
   "version": "1.0.0",
   "description": "Basically a duplex passthrough",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/duplex-pair.git"
+    "url": "https://github.com/mafintosh/duplexthrough.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/mafintosh/duplex-pair/issues"
+    "url": "https://github.com/mafintosh/duplexthrough/issues"
   },
-  "homepage": "https://github.com/mafintosh/duplex-pair"
+  "homepage": "https://github.com/mafintosh/duplexthrough"
 }
