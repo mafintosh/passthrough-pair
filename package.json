@@ -1,0 +1,19 @@
+{
+  "name": "duplex-pair",
+  "version": "0.0.0",
+  "description": "Basically a duplex passthrough",
+  "main": "index.js",
+  "dependencies": {
+    "streamx": "^2.23.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/duplex-pair.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mafintosh/duplex-pair/issues"
+  },
+  "homepage": "https://github.com/mafintosh/duplex-pair"
+}
